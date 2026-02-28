@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -53,6 +54,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
