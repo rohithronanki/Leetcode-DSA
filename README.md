@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
