@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
