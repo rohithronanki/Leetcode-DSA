@@ -2,7 +2,7 @@ class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
         left = 0
         right = len(letters) - 1
-        
+        #binary search
         while left <= right:
             mid = (left + right) // 2  
             if letters[mid] <= target:
