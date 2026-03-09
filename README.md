@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
