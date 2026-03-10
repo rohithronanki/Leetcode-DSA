@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
