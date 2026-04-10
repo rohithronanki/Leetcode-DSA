@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/rohithronanki/Leetcode-DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
