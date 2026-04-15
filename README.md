@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rohithronanki/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/rohithronanki/Leetcode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/rohithronanki/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
